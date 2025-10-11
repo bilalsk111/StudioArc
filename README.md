@@ -6,7 +6,7 @@
 
 ## 🖼️ Preview
 <p align="center">
-  <img src=".src/assets/preview.png" alt="StudioArc Preview" width="800"/>
+  <img src="src/assets/preview.png" alt="StudioArc Preview" width="800"/>
 </p>
 
 
