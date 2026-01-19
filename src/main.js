@@ -53,7 +53,7 @@ basicAnimation();
 // Load GLTF model
 let model;
 const loader = new GLTFLoader();
-loader.load("./public/double-chair.glb", function (gltf) {
+loader.load("./double-chair.glb", function (gltf) {
   model = gltf.scene;
   model.traverse((node) => {
     if (node.isMesh) {
